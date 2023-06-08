@@ -1,0 +1,25 @@
+formulário Naldo cabeleireiro
+<html>
+<head>
+  <title>contato</title>
+</head>
+<body>
+<form action="Naldo cabeleireiro" method="get">
+<label>nome: </label>
+<input type= "text" name="nome" required><br>
+<label>E-mail: </label>
+<input type="E-mail" name="assunto" required><br>
+<label>assunto: </label>
+<select name="assunto">
+<option value="agendamento">Sugestão</option>
+<option value="Critica">Critica</option>
+<option value="elogio"selected>Elogio</option>
+</select><br>
+<label>mensagem:</label>
+<!--input type="text" name="mensagem"><br>-->
+<textarea name="mensagem" required></textarea><br>
+<input type="checkbox" name="termo" value="concord">
+<label>concordo com os termos de privacidade do site</label><br>
+<input type="submit" value="enviar mensagem">
+</form>
+</html>
