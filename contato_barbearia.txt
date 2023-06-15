@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Naldo Cabeleireiro</title>
+
+    <link rel="stylesheet" href="./src/contato/css/contato.css">
+    <link rel="stylesheet" href="./src/layout pagina/layout.css">
+</head>
+<body>
+    <header>
+        <a href="./index.html">
+            <img src="./src/img/logo-site-white.jpeg" alt="Logo Barbearia" class="imagem-logo">
+        </a>
+
+        <ul>
+            <li >
+                <a href="./index.html" class="texto-menu-link">Página Inicial</a>
+            </li> 
+            <li>
+                <a href="./sobre.html" class="texto-menu-link">Sobre</a>
+            </li>
+            <li>
+                <a href="./contato.html" class="texto-menu-link">Contato</a>
+            </li>
+            <li>
+                <a href="./avaliação.html" class="texto-menu-link">Avalie-nos</a>
+            </li>
+        </ul>
+
+    </header>
+    <div>
+        <br><br>
+        <div class="sobre-ly">
+            <br>
+            <p>Telefone: <a href="./index.html" target="_blank" class="texto-menu-link">(83) ****-****</a></p>
+            <br>
+            <p>E-mail: <a href="./index.html" target="_blank" class="texto-menu-link">NaldoCabeleireiro@gmail.com</a></p>
+            <br>
+            <p>
+                Instagram:<a href="https://www.instagram.com/naldocabeleireiro/" target="_blank" class="texto-menu-link"> @naldocaleireiro </a>
+            </p>
+            <br>
+            <p>
+                Localização:
+                <a href="https://www.google.com/maps/place/Naldo+cabeleireiro/@-6.7566819,-35.6588106,17z/data=!3m1!4b1!4m6!3m5!1s0x7adc5e31a92ea45:0x3c537cfe64d86cb7!8m2!3d-6.7566819!4d-35.6566219!16s%2Fg%2F11gdvktygc?entry=ttu" target="blank" class="texto-menu-link"> 
+                    R. José Amâncio Ramalho, 307 - Centro, Solânea
+                </a>
+            </p>
+        </div>
+
+
+    <footer class="credito-rodape">&#169copyright:
+        <a href="https://github.com/JonnathanVituriano" target="blank" class="texto-rodape"> @Jonnathan.V</a>; 
+        <a href="https://github.com/lucasmartins5" target="blank" class="texto-rodape"> @Lucas Martins</a>; 
+        <a href="https://github.com/luishenriquebelmont" target="blank" class="texto-rodape"> @Luis Henrique</a>; 
+        <a href="https://github.com/Fausto2105" target="blank" class="texto-rodape"> @Pedro Faustino</a>
+    </footer>
+</body>
+</html>
