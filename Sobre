@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Naldo Cabeleireiro</title>
+
+    <link rel="stylesheet"  href="./src/sobre/css/sobre.css"/>
+    <link rel="stylesheet" href="./src/layout pagina/layout.css">
+</head>
+<body>
+
+    <header>
+        <a href="./index.html">
+            <img src="./src/img/logo-site-white.jpeg" alt="Logo Barbearia" class="imagem-logo">
+        </a>
+
+        <ul>
+            <li >
+                <a href="./index.html" class="texto-menu-link">Página Inicial</a>
+            </li> 
+            <li>
+                <a href="./sobre.html" class="texto-menu-link">Sobre</a>
+            </li>
+            <li>
+                <a href="./contato.html" class="texto-menu-link">Contato</a>
+            </li>
+            <li>
+                <a href="./avaliação.html" class="texto-menu-link">Avalie-nos</a>
+            </li>
+        </ul>
+
+    </header>
+    <br>
+    <h1 class="texto">Sobre a barbearia:</h1>
+    <div class="sobre-paragrafo">
+        <img src="./src/img/barba-de-corte-de-homem-bonito-em-um-salao-de-barbeiro.jpg" alt="Homem Fazendo Barba" class="man-beard">
+        <h2 class="texto-sobre">História de Naldo Cabeleireiro e sua barbearia</h2>
+
+            <p class="texto-sobre">
+                Aqui, gostaríamos de apresentar a você a história e a incrível experiência de Naldo Cabeleireiro, o talentoso barbeiro que tem encantado seus clientes desde 1990. Entre em nosso universo e descubra o legado de habilidade e maestria que o acompanha até os dias de hoje.<br><br>
+
+                Naldo Cabeleireiro é um verdadeiro mestre em seu ofício. Com mais de três décadas de experiência, ele dominou a arte dos cortes de cabelo masculinos, oferecendo uma combinação perfeita de criatividade, técnica e atenção meticulosa aos detalhes. Seu trabalho não é apenas uma profissão, mas uma paixão que o impulsiona a buscar constantemente a excelência.<br><br>
+            
+                Ao longo dos anos, Naldo Cabeleireiro tem se dedicado ao aprimoramento contínuo de suas habilidades. Ele está sempre atualizado com as últimas tendências e técnicas, participando de cursos, workshops e eventos renomados na área da moda masculina. Sua busca incansável por conhecimento e aperfeiçoamento permite que ele ofereça aos seus clientes um serviço de barbearia verdadeiramente excepcional.<br><br>
+            
+                Se você procura uma experiência de barbearia que celebre a tradição, o comprometimento com a qualidade e o trabalho excepcional de um verdadeiro mestre, Naldo Cabeleireiro é a escolha certa para você. Desde 1990, ele tem impressionado e encantado os homens que passaram por sua barbearia, oferecendo cortes de cabelo que são verdadeiras obras de arte. Venha fazer parte de nossa história e experimente a expertise de Naldo Cabeleireiro. Estamos ansiosos para recebê-lo e proporcionar uma experiência inesquecível.<br><br>
+
+            </p>
+        <br>
+        <a href="./contato.html" class="botao-contato-sobre">
+            <button> Contato </button>
+        </a>
+    </div>
+
+    <footer class="credito-rodape">
+        &#169copyright:
+        <a href="https://github.com/JonnathanVituriano" target="blank" class="texto-rodape"> @Jonnathan.V</a>; 
+        <a href="https://github.com/lucasmartins5" target="blank" class="texto-rodape"> @Lucas Martins</a>; 
+        <a href="https://github.com/luishenriquebelmont" target="blank" class="texto-rodape"> @Luis Henrique</a>; 
+        <a href="https://github.com/Fausto2105" target="blank" class="texto-rodape"> @Pedro Faustino</a>
+    </footer>
+
+</body>
+</html>
