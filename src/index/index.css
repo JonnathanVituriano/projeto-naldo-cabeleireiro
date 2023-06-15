@@ -1,0 +1,123 @@
+.texto{
+    position: relative;
+    text-align: left;
+    margin: 9;
+    color: #2B3439;
+
+}
+
+.texto-paragrafo1{
+    font-size: 15px;
+    width: 55%;
+    margin-top: 0px;
+    position: relative;
+    bottom: 400px;
+    left: 30px;
+
+}
+.img-barber{
+    position: relative;
+    left: 60%;
+    width: 20%;
+}
+
+.texto2{
+    position: relative;
+    bottom: 440px;
+    text-align: right;
+    margin: 9;
+    color: #2B3439;
+
+}
+
+.texto-titulo{
+    position: relative;
+    text-align: center;
+
+}
+
+p .texto-paragrafo2{
+    position: relative;
+    bottom: 4000%;
+    text-align: right;
+    width: 50%;
+
+}
+
+
+button {
+    color: #EDE4DA;
+    background-color: #ff8585;
+    border: none;
+    height: 50px;
+    line-height: 30px;
+    padding: 0 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+
+
+
+
+.precos{
+    position: relative;
+    bottom: 270px;
+    text-align: center;
+}
+
+.precoproduto1{
+    position: relative;
+    height: 200px;
+    bottom: 200px;
+    left: 200px;
+}
+
+.precoproduto2{
+    position: relative;
+    height: 200px;
+    left: 566px;
+    bottom: 450px;
+}
+
+.precoproduto3{
+    position: relative;
+    height: 200px;
+    left: 960px;
+    bottom: 1050px;
+}
+
+.precoproduto1-texto{
+    position: relative;
+    height: 200px;
+    bottom: 200px;
+    left: 200px;
+}
+
+.precoproduto2-texto{
+    position: relative;
+    height: 200px;
+    left: 590px;
+    bottom: 450px;
+}
+
+.precoproduto3-texto{
+    position: relative;
+    height: 200px;
+    left: 960px;
+    bottom: 1050px;
+}
+
+.botao-contato{
+    position: relative;
+    bottom: 1000px;
+    left: 610px
+}
+
+.footer-container{
+    position: relative;
+    bottom: 1100px
+
+}

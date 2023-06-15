@@ -1,0 +1,50 @@
+.texto,
+.texto-paragrafo1{
+    color: #2B3439;
+}
+
+.texto-paragrafo{
+    font-size: 12px;
+}
+
+button {
+    color: #EDE4DA;
+    background-color: #ff8585;
+    border: none;
+    height: 50px;
+    line-height: 30px;
+    padding: 0 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+div{
+    text-align: center;
+}
+
+.sobre-paragrafo{
+    background-color: #171C1F;
+    color: #EDE4DA;
+    border-radius: 20px;
+    height: 70%;
+}
+
+.texto-sobre{
+    width: 55%;
+}
+
+div .man-beard{
+    width: 450px;
+    height: 500px;
+    right: 40px;
+    position: absolute;
+    top: 436px;
+    border-radius: 40px;
+}
+
+.botao-contato-sobre{
+    position: relative;
+    bottom: 10px;
+}

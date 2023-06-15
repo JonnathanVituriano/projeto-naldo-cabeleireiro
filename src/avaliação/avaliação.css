@@ -1,0 +1,46 @@
+div{
+    margin-top: 10%;
+    text-align: center;
+    border-radius: 50px;
+    height: 340px;
+    width: auto;
+    position: relative;
+    bottom: 100px;
+}
+
+.forms{
+    position: relative;
+    top: 30px;
+}
+
+input{
+    color: #EDE4DA;
+    background-color: #171C1F ;
+    border: none;
+    height: 30px;
+    line-height: 30px;
+    padding: 0 20px;
+    font-weight: bold;
+    border-radius: 30px;
+}
+
+textarea{
+    color: #EDE4DA;
+    background-color: #171C1F;
+    border: none;
+    height: 50px;
+    line-height: 30px;
+    padding: 0 20px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.txt-msg{
+    position: relative;
+    bottom: 34px;
+}
+
+.term-text{
+    position: relative;
+    bottom: 9px;
+}
